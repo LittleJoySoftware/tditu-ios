@@ -1,0 +1,51 @@
+# turds
+(.*/)?\#[^/]*\#$
+*~
+
+# git
+*.orig
+
+# scratch
+scratch
+private
+*.bak
+
+# versioning
+InfoPlist.h
+
+# Jetbrains
+workspace.xml
+find.xml
+
+# calabash/cucumber
+.irb-history
+.bundle
+vendor
+Gemfile.lock
+*.gem
+rerun*.txt
+calabash*.html
+pluto*.html
+neptune*.html
+screenshot_*.png
+
+# tmp genstrings
+genstrings
+
+
+# Xcode
+.DS_Store
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+
