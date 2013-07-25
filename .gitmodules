@@ -1,0 +1,3 @@
+[submodule "ljs"]
+	path = ljs
+	url = git@github.com:LittleJoySoftware/ljs.git
